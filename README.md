@@ -12,7 +12,7 @@
 | section   | The category of the article        |
 
 
-## Requirements
+## Articles Count
 
 | Newspaper      | Count |
 | ----------- | ----------- |
