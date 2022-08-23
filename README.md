@@ -1,5 +1,5 @@
 # Saudi News Articles Classification
-
+Newspapers includes a huge and important part of history, and this project contain articles that were scraped from four Saudi newspapers, that hopefully will contribute in understanding the changes in saudi arabia in the recent years. This project also include EDA on the data, summarize articles using TF-IDS and Three ML models to classify articles.
 
 ## Data
 
