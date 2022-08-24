@@ -7,7 +7,7 @@ Newspapers includes a huge and important part of history, and this project conta
 | ----------- | ----------- |
 | url      | The url for the article       |
 | title   | The title of the article       |
-| author   | The authur of the article        |
+| author   | The author of the article        |
 | content   | The content of the article        |
 | section   | The category of the article        |
 
@@ -24,4 +24,4 @@ Newspapers includes a huge and important part of history, and this project conta
 ## Conclusion
 - I have found that Local and Sport were the only sections that are present in all four newspapers
 - Top 4 most frequent words in Alriyadh are not Arabic
-- I have trained three models which are KNN, Decision trees and SVM, and found that SVM is the best model with 79.9% percision and 81.2% accurecy
+- I have trained three models which are KNN, Decision trees and SVM, and found that SVM is the best model with 79.9% precision and 81.2% accuracy
